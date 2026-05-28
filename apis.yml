@@ -1,0 +1,32 @@
+aid: metaphorsum
+name: Metaphorsum
+description: "Generate demo paragraphs giving number of words and sentences"
+url: http://metaphorpsum.com/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Test Data"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Test Data
+  - Public APIs
+apis:
+  - name: Metaphorsum
+    description: "Generate demo paragraphs giving number of words and sentences"
+    humanURL: http://metaphorpsum.com/
+    baseURL: http://metaphorpsum.com/
+    tags:
+      - Test Data
+    properties:
+      - type: Documentation
+        url: http://metaphorpsum.com/
+common:
+  - type: Website
+    url: http://metaphorpsum.com/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
