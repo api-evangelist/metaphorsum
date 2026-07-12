@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: http://metaphorpsum.com/
 common:
+  - type: DomainSecurity
+    url: security/metaphorsum-domain-security.yml
   - type: Website
     url: http://metaphorpsum.com/
   - type: PublicAPIsListing
