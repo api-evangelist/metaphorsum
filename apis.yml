@@ -39,7 +39,6 @@ apis:
   - name: Metaphorsum
     description: "Generate demo paragraphs giving number of words and sentences"
     humanURL: http://metaphorpsum.com/
-    baseURL: http://metaphorpsum.com/
     tags:
       - Test Data
     properties:
